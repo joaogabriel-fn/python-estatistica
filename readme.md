@@ -1,1 +1,0 @@
-### Formação estatística com python
